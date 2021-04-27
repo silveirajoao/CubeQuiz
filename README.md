@@ -11,4 +11,4 @@ As imagens da pasta drawable foram retiradas e colocadas na pasta "images_for_dr
 
 
 ## Desenvolvedores
-@ChristianSantos07, @silveirajoao, @Guizinhu09 e @leoangonese
+@silveirajoao, @ChristianSantos07, @Guizinhu09 e @leoangonese
